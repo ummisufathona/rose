@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915462704675",
+    "firebase_url": "https://candy-19158.firebaseio.com",
+    "project_id": "candy-19158",
+    "storage_bucket": "candy-19158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915462704675:android:9e53233c14660554146b96",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.ti17a17313044.candy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915462704675-pqau289fie67feeu34i1f91pgpos8j83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.ti17a17313044.candy",
+            "certificate_hash": "f3e652cc5aadc3f15f171e32d7e4b594ded8fd37"
+          }
+        },
+        {
+          "client_id": "915462704675-ni1e8v038bn1vve7qof9n7dgujofa21n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJCCesAqfOlvyd0NE7nMXgdGHIS1cQ4FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915462704675-ni1e8v038bn1vve7qof9n7dgujofa21n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

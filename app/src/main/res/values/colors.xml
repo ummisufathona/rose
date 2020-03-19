@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--    pallete-->
+    <color name="Kuning">#FFF459</color>
+
+    <color name="Toska">#12C4FF</color>
+    <color name="Abu">#91AAB3</color>
+
+    <color name="Pink">#FF4071</color>
+
+</resources>
